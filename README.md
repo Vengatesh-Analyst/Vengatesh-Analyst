@@ -1,12 +1,16 @@
-### Hi there, I'm Vengatesh S
+## Hi 👋, I'm Vengatesh S
 
-Data Analyst | SQL • Power BI • Snowflake • Python • Azure Databricks
+I'm a passionate Data Analyst with over 2 years of experience transforming complex data into actionable insights.  
+I specialize in SQL, Power BI, Snowflake, Excel, and Azure Databricks, with hands-on experience executing 100+ marketing campaigns and building scalable reporting solutions.  
+I’ve worked extensively with customer segmentation, campaign analytics, and dashboard development that supports business decision-making.
 
-I’m a data-driven analyst with over 2 years of experience in Campaign Analytics, Customer Segmentation, and Reporting.  
-I’ve led 100+ targeted marketing campaigns, built advanced dashboards in Power BI, and automated workflows using Snowflake and Databricks.
-**
-Recently resumed my career after a break due to personal reasons. Currently upskilling through real-world analytics projects and open to new opportunities.  **
+Recently resumed my career after a break due to personal reasons. Currently upskilling through real-world analytics projects and open to new opportunities.
 
-Reach me at: vengateshbalaji2000@gmail.com | Bangalore, India
-LinkedIn: linkedin.com/in/vengatesh-s-267301225/
+📫 Email: vengateshbalaji2000@gmail.com  
+🔗 LinkedIn: linkedin.com/in/vengatesh-s-267301225/
 
+---
+
+### Languages and Tools:
+
+SQL • Power BI • Excel • Python • Snowflake • Azure Databricks • Azure Data Lake • Git • JIRA • Microsoft SQL Server
