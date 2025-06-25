@@ -8,4 +8,6 @@ I’ve executed 100+ targeted marketing campaigns, built advanced Power BI dashb
 💡 Recently resumed my career after a break due to a personal accident. I’ve been actively upskilling through hands-on projects in Power BI, SQL, and Azure — including a retail automation project involving image recognition.
 
 📁 Open to new Data Analyst opportunities and freelance collaborations.  
-📫 Reach me at: vengateshbalaji2000@gmail.com | Bangalore, India
+📫 Reach me at: vengateshbalaji2000@gmail.com | Bangalore, India 
+🔗 LinkedIn: linkedin.com/in/vengatesh-s-267301225/
+
